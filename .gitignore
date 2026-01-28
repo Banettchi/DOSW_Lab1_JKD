@@ -1,0 +1,19 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de paquetes
+*.jar
+*.war
+*.ear
+
+# Archivos de log
+*.log
+
+# Carpetas de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
