@@ -94,3 +94,16 @@ git branch crea la rama pero te deja donde estas parado, git checkout -b crea la
 ### 12. ¿Por qué es recomendable crear ramas feature/ para nuevas funcionalidades en lugar de trabajar en main directamente?
 **Respuesta:**
 para no danar el codigo principal en main que es el que funciona, asi trabajas tranquilo en tu rama feature y solo unes cuando todo este probado y perfecto
+
+# OBSERVACIONES - GENERALES
+
+<img width="864" height="345" alt="image" src="https://github.com/user-attachments/assets/36826f09-6c73-45ee-8a90-be463f4d4078" />
+<img width="862" height="526" alt="image" src="https://github.com/user-attachments/assets/86ec22e1-0f98-4849-ac2e-5b961d71014a" />
+<img width="859" height="510" alt="image" src="https://github.com/user-attachments/assets/11d6cb20-3ae1-4b9f-8699-c71f216d2f56" />
+
+## OBSERVACIONES - ONBOARDING (INDIVIDUAL)
+<img width="472" height="152" alt="image" src="https://github.com/user-attachments/assets/b21a1706-8223-48ee-929e-2a2d8b729178" />
+
+## NOTA
+<img width="351" height="151" alt="image" src="https://github.com/user-attachments/assets/ce8c7abd-e11a-41f0-8a31-5b121a89442f" />
+
